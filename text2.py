@@ -1,0 +1,1 @@
+print('新建python脚本text2')
